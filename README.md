@@ -3,6 +3,9 @@
 ## Starts with a SRX Scraper
 [scraper_srx_sg_condo_directory.py](scraper_srx_sg_condo_directory.py)
 
+## Install Python
+Check [docs/installation.md](docs/installation.md)
+
 ## Concept
 * Python syntax
     * Basic operations
