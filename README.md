@@ -78,4 +78,5 @@ Check [docs/installation.md](docs/installation.md)
 ## Reference
 * [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Python Official Documentation](https://docs.python.org/3/)
+* [Python Official Tutorial](https://docs.python.org/3/tutorial/)
 * [Requests](https://requests.readthedocs.io/en/master/)
