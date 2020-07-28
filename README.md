@@ -55,7 +55,7 @@ Check [docs/installation.md](docs/installation.md)
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <div id="header"></div> 
+    <div id="header"></div>
     <div id="main">
       <div id="content">
         <ul>
@@ -64,8 +64,8 @@ Check [docs/installation.md](docs/installation.md)
         </ul>
       </div>
       <div id="sidebar"></div>
-    </div> 
-    <div id="footer"></div> 
+    </div>
+    <div id="footer"></div>
   <script type="text/javascript" src="script.js"></script>
   </body>
 </html>
@@ -79,4 +79,5 @@ Check [docs/installation.md](docs/installation.md)
 * [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Python Official Documentation](https://docs.python.org/3/)
 * [Python Official Tutorial](https://docs.python.org/3/tutorial/)
+* [Jupyter(interactive Python shell)](https://jupyter.org/)
 * [Requests](https://requests.readthedocs.io/en/master/)
