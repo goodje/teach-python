@@ -4,7 +4,7 @@
 [scraper_srx_sg_condo_directory.py](scraper_srx_sg_condo_directory.py)
 
 ## Install Python
-Check [docs/installation.md](docs/installation.md)
+Check [docs/installation.md](docs/python_setup.md)
 
 ## Concept
 * Python syntax
